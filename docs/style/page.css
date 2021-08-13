@@ -29,15 +29,6 @@ ul.spread {
 }
 
 /* choose a light or dark theme to add to the body tag. */
-.dark-theme {
-    background-color: #181414;
-    color: #fcfbfb;   
-}
-
-.light-theme {
-    background-color: white;
-    color: black;    
-}
 
 .beige-theme {
     background-color: #f9f1e6;

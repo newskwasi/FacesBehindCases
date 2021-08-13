@@ -4,7 +4,7 @@
   "description": "",
   "scripts": {
     "start": "parcel content/index.html --out-dir .dist --no-hmr --open",
-    "build": "parcel build content/index.html --out-dir docs --public-url /",
+    "build": "parcel build content/index.html --out-dir docs --public-url /FacesbehindCases",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "staticFiles": {
